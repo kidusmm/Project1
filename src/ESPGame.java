@@ -1,7 +1,7 @@
 /*
- * Class: CMSC203 
+ * Class: CMSC203,CRN #31274
  * Instructor: Prof. Ahmed Tarek
- * Description: 
+ * Description: ESPGame program that tests the user's extrasensory perception (ESP) by having them guess randomly selected colors from a file. The game runs for three rounds, keeps track of correct guesses, and allows the user to play again or exit.
  * Due: 02/11/2025
  * Platform/compiler: Eclipse
  * I pledge that I have completed the programming assignment 
